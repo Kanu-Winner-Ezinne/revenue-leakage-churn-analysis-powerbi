@@ -43,7 +43,7 @@ Using DAX measures, interactive dashboards, and an AI-assisted decomposition tre
 
 ## Dashboard Overview
 
-### Page 1: Revenue Leakage Overview & AI Analysis
+###  Revenue Leakage Overview & AI Analysis
 
 This dashboard provides a high-level overview of revenue leakage using KPI cards and an AI-assisted decomposition tree.
 
@@ -63,11 +63,11 @@ This dashboard provides a high-level overview of revenue leakage using KPI cards
 - Interactive Industry, Region, and Competitor slicers
 - Detailed exploration of Enterprise revenue-loss paths
 
-### Page 2: Key Insights & Strategic Recommendations
+###  Key Insights & Strategic Recommendations
 
 This page summarizes the findings from the decomposition tree and presents strategic recommendations for reducing revenue leakage.
 
-### Page 3: Customer Churn & Revenue Drivers
+###  Customer Churn & Revenue Drivers
 
 This dashboard compares lost ARR across subscription tiers, industries, and churn reasons.
 

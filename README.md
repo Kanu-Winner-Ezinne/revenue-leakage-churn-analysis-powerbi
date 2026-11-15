@@ -7,6 +7,17 @@ This Power BI project analyzes **$52.74 million in lost Annual Recurring Revenue
 
 Using DAX measures, interactive dashboards, and an AI-assisted decomposition tree, the analysis explores revenue leakage patterns and provides data-driven recommendations for improving customer retention.
 
+<img width="2767" height="1600" alt="Decomposition tree-1" src="https://github.com/user-attachments/assets/42d5541b-6228-4b0c-9eeb-45c0a82b4923" />
+
+----
+<img width="2767" height="1600" alt="Decomposition tree-2" src="https://github.com/user-attachments/assets/0e682856-2aaa-4f84-8e75-7c233ca2cd48" />
+
+------
+<img width="2767" height="1600" alt="Decomposition tree-3" src="https://github.com/user-attachments/assets/029e62b8-f1d5-43be-b82b-0a897d13d6b4" />
+
+
+
+
 ## Tools & Skills
 
 - Power BI Desktop
